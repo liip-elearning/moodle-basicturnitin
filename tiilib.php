@@ -22,14 +22,6 @@ define("TII_SRC",6);
 define("TII_BASEURL",'https://api.turnitin.com/api.asp');
 define("TII_VERSION",'2.3.5');
 define("TII_LOGGING",false);
-define("TII_LOGGING_LOCATION","");
 
-// CONFIGURABLE SECTION FOR SETUP
-//====================================================================
-define("TII_AID",'<ID>');
-define("TII_SHAREDKEY",'<SHARED KEY>');
-define("TII_WEBSERVICEURL",'<PATH TO>dispatcher.php');
-
-//====================================================================
 
 ?>
